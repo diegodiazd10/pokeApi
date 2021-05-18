@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.divHeader {
+    width: 100%;
+    margin-top: 0px;
+    padding-top: 0px;
+} 
+li {
+    list-style: none;
+  }
+.divHeader .header {
+    background-color: rgb(153, 0, 84);
+    height: 120px;
+    color: rgb(255, 255, 255);
+}
+.styleContent{
+    margin-top: 130px;
+}
+.footer{
+    background-color: rgb(153, 0, 84);
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    text-align: center;
+    padding: 20px 20px 5px;
+}
